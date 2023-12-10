@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "lottery",
+			"path": "."
+		},
+		{
+			"name": "dash-clinical-analytics",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
